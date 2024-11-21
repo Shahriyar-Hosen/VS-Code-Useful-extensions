@@ -2,6 +2,31 @@
 
 ---
 
+### **Customization (Themes and Icons):**
+1. **Baitul Hikmah Dark Theme**  
+   - একটি সুন্দর, চোখকে আরামদায়ক ডার্ক থিম যা দীর্ঘ সময় কোডিং করার জন্য উপযুক্ত।
+   - Recommend: Baitul Hikmah Professional
+
+2. **VS Code Icons**  
+   - ফাইল এবং ফোল্ডার আইকনের জন্য আকর্ষণীয় কাস্টমাইজেশন।  
+
+---
+
+### **Productivity এবং Utility:**
+1. **Auto Rename Tag**  
+   - HTML/JSX-এ ট্যাগের ওপেনিং এবং ক্লোজিং ট্যাগ অটো আপডেট হবে।  
+
+2. **Bracket Pair Colorizer 2**  
+   - কোডে ব্র্যাকেট পেয়ার গুলো কালার-হাইলাইট করে দেখাবে।  
+
+3. **Path IntelliSense**  
+   - ফাইল পাথ লেখার সময়ে ইন্টেলিসেন্স সাজেশন দেখাবে।  
+
+4. **Code Spell Checker**  
+   - কোডের স্পেল চেক করবে, বিশেষ করে ভ্যারিয়েবল বা ফাংশন নামের ভুল ধরার জন্য।  
+
+---
+
 ### **React এবং JavaScript/TypeScript ডেভেলপমেন্টের জন্য:**
 1. **ES7+ React/Redux/React-Native snippets**  
    - React কোডের জন্য প্রি-বিল্ট স্নিপেট।  
@@ -36,26 +61,3 @@
 3. **MongoDB for VS Code**  
    - MongoDB এর সাথে VS Code থেকেই কানেক্ট এবং ডেটা ব্রাউজ/কোয়েরি করতে পারবে।  
 
-### **Customization (Themes and Icons):**
-1. **Baitul Hikmah Dark Theme**  
-   - একটি সুন্দর, চোখকে আরামদায়ক ডার্ক থিম যা দীর্ঘ সময় কোডিং করার জন্য উপযুক্ত।  
-
-2. **VS Code Icons**  
-   - ফাইল এবং ফোল্ডার আইকনের জন্য আকর্ষণীয় কাস্টমাইজেশন।  
-
----
-
-### **Productivity এবং Utility:**
-1. **Auto Rename Tag**  
-   - HTML/JSX-এ ট্যাগের ওপেনিং এবং ক্লোজিং ট্যাগ অটো আপডেট হবে।  
-
-2. **Bracket Pair Colorizer 2**  
-   - কোডে ব্র্যাকেট পেয়ার গুলো কালার-হাইলাইট করে দেখাবে।  
-
-3. **Path IntelliSense**  
-   - ফাইল পাথ লেখার সময়ে ইন্টেলিসেন্স সাজেশন দেখাবে।  
-
-4. **Code Spell Checker**  
-   - কোডের স্পেল চেক করবে, বিশেষ করে ভ্যারিয়েবল বা ফাংশন নামের ভুল ধরার জন্য।  
-
----
